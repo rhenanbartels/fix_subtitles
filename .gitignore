@@ -1,7 +1,7 @@
 # Compiled source #
 ###################
 *.pyc
-*.pyc.swp
+*.py.swp
 #Mac Folder files#
 #################
 .DS_Store
