@@ -1,1 +1,2 @@
-# fix_subtitles
+Simple script to sync subtitles with Python
+==========================================
