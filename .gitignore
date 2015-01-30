@@ -3,3 +3,6 @@
 *.pyc
 *.pyc.swp
 
+#Mac Folder files#
+#################
+*.DS_Store
